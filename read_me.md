@@ -3,7 +3,9 @@
 ## Introduction
 I just found this OKC profiles data on Kaggle because I was just thinking to myself how it would be fun to play around with dating profile data, and then I found some! With apparently 59946 rows! I hope the data isn't clean because it would be fun to clean it, but it probably is clean because it seems like the data is for intro stats students. We'll have to see!
 
-I plan to use this project to showcase some of my data analysis skills. I am also still getting acquinted with best practices regarding using git and Jupyter Notebook. 
+This project is sort of my creative exploratory space. 
+
+I am also still getting acquinted with best practices regarding using git and Jupyter Notebook. 
 
 
 ## About Data
